@@ -19,6 +19,7 @@ This is a curated list of resources related to the research and development of p
 * [PySyft: A Generic Framework for Privacy Preserving Deep Learning](https://arxiv.org/abs/1811.04017)
 * [Private Deep Learning in TensorFlow Using Secure Computation, October 23, 2018](https://arxiv.org/abs/1810.08130)
 * [SecureNN: Efficient and Private Neural Network Training, May 10,2018](https://eprint.iacr.org/2018/442.pdf)
+* [ABY^3:a Mixed protocol Framework for Machine Learning,April 30,2018](https://eprint.iacr.org/2018/403.pdf)
 * [Gazelle: A Low Latency Framework for Secure Neural Network Inference, January 16, 2018](https://arxiv.org/abs/1801.05507)
 * [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, November 29, 2017](https://eprint.iacr.org/2017/1164)
 * [CryptoDL: Deep Neural Networks over Encrypted Data, November 14, 2017](https://arxiv.org/abs/1711.05189)

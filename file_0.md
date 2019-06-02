@@ -3,23 +3,27 @@ Private machine learning progress
 
 ## Content
 - [About](#about)
+- [Secure Machine Learning](#secure-machine-learning)
 - [Secure Deep Learning](#secure-deep-learning)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [General Research](#general-research)
 - [Blogs](#blogs)
-- [Groups](#groups)
-- [Thanks](#thanks)
 
 # About
 
 This is a curated list of resources related to the research and development of private machine learning.
+
+# Secure Machine Learning
+
+* [ABY3:a Mixed protocol Framework for Machine Learning,April 30,2018](https://eprint.iacr.org/2018/403.pdf)
+* [Machine Learning Classification over Encrypted Data,May 11,2014](https://eprint.iacr.org/2014/331.pdf)
+
 
 # Secure Deep Learning
 
 * [PySyft: A Generic Framework for Privacy Preserving Deep Learning](https://arxiv.org/abs/1811.04017)
 * [Private Deep Learning in TensorFlow Using Secure Computation, October 23, 2018](https://arxiv.org/abs/1810.08130)
 * [SecureNN: Efficient and Private Neural Network Training, May 10,2018](https://eprint.iacr.org/2018/442.pdf)
-* [ABY^3:a Mixed protocol Framework for Machine Learning,April 30,2018](https://eprint.iacr.org/2018/403.pdf)
 * [Gazelle: A Low Latency Framework for Secure Neural Network Inference, January 16, 2018](https://arxiv.org/abs/1801.05507)
 * [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, November 29, 2017](https://eprint.iacr.org/2017/1164)
 * [CryptoDL: Deep Neural Networks over Encrypted Data, November 14, 2017](https://arxiv.org/abs/1711.05189)
@@ -78,27 +82,3 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
 * [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
 
-# Groups
-
-* [The Alan Turing Institute: Privacy-preserving data analysis](https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/)
-
-# Workshops
-
-* [Privacy Preserving Machine Learning NeurIPS 2018 Workshop](https://ppml-workshop.github.io/ppml/)
-
-# Thanks
-
-### Maintainers
-
-* [@gavinuhma](https://github.com/gavinuhma)
-* [@iamtrask](https://github.com/iamtrask)
-* [@robert-wagner](https://github.com/robert-wagner)
-* [@mortendahl](https://github.com/mortendahl)
-
-### OpenMined Community
-
-Thanks to members of the OpenMined community who have shared links on slack: [@morgangiraud](https://github.com/morgangiraud), [@jvmancuso](https://github.com/jvmancuso)
-
-### Adding links
-
-If you have any links to add please send a pull request, and we'll take a look. There is so much happening in this space!

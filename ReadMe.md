@@ -37,7 +37,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 
 
 
-# Federated Learning
+# Secure Federated Learning
 
 * [Privacy-Preserving Deep Learning, October 12, 2015](https://dl.acm.org/citation.cfm?id=2813687)
 * [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption, July 15, 2017](https://ieeexplore.ieee.org/document/8241854)

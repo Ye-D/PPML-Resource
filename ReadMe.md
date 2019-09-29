@@ -57,6 +57,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [PySEAL: Python interface to SEAL](https://github.com/Lab41/PySEAL)
 * [HElib: An Implementation of homomorphic encryption](https://github.com/shaih/HElib])
 * [EzPC: programmable, efficient, and scalable secure two-party computation for machine learning, June 4, 2018](https://eprint.iacr.org/2019/979.pdf)
+* [CHET: Compiler and Runtime for Homomorphic Evaluation of Tensor Programs, October 1, 2018](https://arxiv.org/pdf/1810.00845.pdf)
 
 # General Research
 

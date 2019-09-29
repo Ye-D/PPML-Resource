@@ -19,6 +19,7 @@ This is a curated list of resources related to the research and development of p
 * [ABY3:a Mixed protocol Framework for Machine Learning,April 30,2018](https://eprint.iacr.org/2018/403.pdf)
 * [Machine Learning Classification over Encrypted Data,May 11,2014](https://eprint.iacr.org/2014/331.pdf)
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning, April 19, 2017](https://eprint.iacr.org/2017/396)
+* [New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning, May 29. 2019](https://eprint.iacr.org/2019/599.pdf)
 
 # Secure Deep Learning
 

@@ -5,6 +5,7 @@ Private machine learning progress
 - [About](#about)
 - [Secure Machine Learning](#secure-machine-learning)
 - [Secure Deep Learning](#secure-deep-learning)
+- [Secure Federated Learning](#secure-federated-learning)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [General Research](#general-research)
 - [Blogs](#blogs)
@@ -17,7 +18,7 @@ This is a curated list of resources related to the research and development of p
 
 * [ABY3:a Mixed protocol Framework for Machine Learning,April 30,2018](https://eprint.iacr.org/2018/403.pdf)
 * [Machine Learning Classification over Encrypted Data,May 11,2014](https://eprint.iacr.org/2014/331.pdf)
-
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning, April 19, 2017](https://eprint.iacr.org/2017/396)
 
 # Secure Deep Learning
 
@@ -29,11 +30,19 @@ This is a curated list of resources related to the research and development of p
 * [CryptoDL: Deep Neural Networks over Encrypted Data, November 14, 2017](https://arxiv.org/abs/1711.05189)
 * [MiniONN: Oblivious Neural Network Predictions via MiniONN
 Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf)
-* [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption, July 15, 2017](https://ieeexplore.ieee.org/document/8241854)
 * [DeepSecure: Scalable Provably-Secure Deep Learning, May 24, 2017](https://arxiv.org/abs/1705.08963)
-* [SecureML: A System for Scalable Privacy-Preserving Machine Learning, April 19, 2017](https://eprint.iacr.org/2017/396)
 * [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy, February 24, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
+* [CrypTFlow: Secure TensorFlow Inference, September 15, 2019](https://eprint.iacr.org/2019/1049.pdf)
+
+
+
+# Federated Learning
+
 * [Privacy-Preserving Deep Learning, October 12, 2015](https://dl.acm.org/citation.cfm?id=2813687)
+* [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption, July 15, 2017](https://ieeexplore.ieee.org/document/8241854)
+* [Practical Secure Aggregation for Privacy Preserving Machine Learning, March 27, 2017](https://eprint.iacr.org/2017/281.pdf)
+* [NIKE-based Fast Privacy-preserving High-dimensional Data Aggregation for Mobile Devices, October, 2018](http://cacr.uwaterloo.ca/techreports/2018/cacr2018-10.pdf)
+* [PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks, August 28, 2019](https://eprint.iacr.org/2019/979.pdf)
 
 
 # Libraries and Frameworks
@@ -46,6 +55,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [SEAL: Simple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
 * [PySEAL: Python interface to SEAL](https://github.com/Lab41/PySEAL)
 * [HElib: An Implementation of homomorphic encryption](https://github.com/shaih/HElib])
+* [EzPC: programmable, efficient, and scalable secure two-party computation for machine learning, June 4, 2018](https://eprint.iacr.org/2019/979.pdf)
 
 # General Research
 

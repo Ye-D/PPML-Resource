@@ -1,91 +1,80 @@
 # Private-Ai-Resources
-Private machine learning progress
+Privacy-Preserving Machine Learning Progress
 
 ## Content
 - [About](#about)
 - [Secure Machine Learning](#secure-machine-learning)
-- [Secure Deep Learning](#secure-deep-learning)
-- [Secure Federated Learning](#secure-federated-learning)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [General Research](#general-research)
 - [Blogs](#blogs)
 
 # About
 
-This is a curated list of resources related to the research and development of private machine learning.
+This is a current list of resources related to the research and development of privacy-preserving machine learning.
 
 # Secure Machine Learning
 
-* [ABY3:a Mixed protocol Framework for Machine Learning,April 30,2018](https://eprint.iacr.org/2018/403.pdf)
-* [Machine Learning Classification over Encrypted Data,May 11,2014](https://eprint.iacr.org/2014/331.pdf)
-* [SecureML: A System for Scalable Privacy-Preserving Machine Learning, April 19, 2017](https://eprint.iacr.org/2017/396)
-* [New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning, May 29. 2019](https://eprint.iacr.org/2019/599.pdf)
-
-# Secure Deep Learning
+* [Machine Learning Classification over Encrypted Data, NDSS'14](https://eprint.iacr.org/2014/331.pdf)
+* [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)
+* [Oblivious Multi-Party Machine Learning on Trusted Processors, USENIX SECURITY'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/ohrimenko)
+* [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/corrigan-gibbs)
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning, S&P'17](https://eprint.iacr.org/2017/396)
+* [MiniONN: Oblivious Neural Network Predictions via MiniONN Transformations, CCS'17](https://acmccs.github.io/papers/p619-liuA.pdf)
+* [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, AsiaCCS'17](https://eprint.iacr.org/2017/1164)
+* [Practical Secure Aggregation for Privacy Preserving Machine Learning, CCS'17](https://eprint.iacr.org/2017/281.pdf)
+* [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption, TIFS'17](https://ieeexplore.ieee.org/document/8241854)
+* [DeepSecure: Scalable Provably-Secure Deep Learning, DAC'17](https://arxiv.org/abs/1705.08963)
+* [Secure Computation for Machine Learning With SPDZ, NIPS'18](https://arxiv.org/abs/1901.00329)
+* [ABY3:a Mixed protocol Framework for Machine Learning, CCS'18](https://eprint.iacr.org/2018/403.pdf)
+* [SecureNN: Efficient and Private Neural Network Training, PETS'18](https://eprint.iacr.org/2018/442.pdf)
+* [Gazelle: A Low Latency Framework for Secure Neural Network Inference, USENIX SECURITY'18](https://arxiv.org/abs/1801.05507)
+* [NIKE-based Fast Privacy-preserving High-dimensional Data Aggregation for Mobile Devices, CACR'18](http://cacr.uwaterloo.ca/techreports/2018/cacr2018-10.pdf)
+* [CHET: an optimizing compiler for fully-homomorphic neural-network inferencing, PLDI'19](https://dl.acm.org/citation.cfm?id=3314628)
+* [PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks, CCSW'19](https://eprint.iacr.org/2019/979.pdf)
+* [New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning, S&P'19](https://eprint.iacr.org/2019/599.pdf)
+* [FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning, PETS'19](https://eprint.iacr.org/2019/1365)
+* [Helen: Maliciously Secure Coopetitive Learning for Linear Models, S&P'19](https://ieeexplore.ieee.org/abstract/document/8835215)
+* [VerifyNet: Secure and verifiable federated learning, TIFS'19](https://ieeexplore.ieee.org/abstract/document/8765347)
+* [Efficient multi-key homomorphic encryption with packed ciphertexts with application to oblivious neural network inference. CCS'19](https://dl.acm.org/citation.cfm?id=3363207)
+* [QUOTIENT: two-party secure neural network training and prediction, CCS'19](https://dl.acm.org/citation.cfm?id=3339819)
 
 * [PySyft: A Generic Framework for Privacy Preserving Deep Learning](https://arxiv.org/abs/1811.04017)
-* [Private Deep Learning in TensorFlow Using Secure Computation, October 23, 2018](https://arxiv.org/abs/1810.08130)
-* [SecureNN: Efficient and Private Neural Network Training, May 10,2018](https://eprint.iacr.org/2018/442.pdf)
-* [Gazelle: A Low Latency Framework for Secure Neural Network Inference, January 16, 2018](https://arxiv.org/abs/1801.05507)
-* [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, November 29, 2017](https://eprint.iacr.org/2017/1164)
-* [CryptoDL: Deep Neural Networks over Encrypted Data, November 14, 2017](https://arxiv.org/abs/1711.05189)
-* [MiniONN: Oblivious Neural Network Predictions via MiniONN
-Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf)
-* [DeepSecure: Scalable Provably-Secure Deep Learning, May 24, 2017](https://arxiv.org/abs/1705.08963)
-* [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy, February 24, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
-* [CrypTFlow: Secure TensorFlow Inference, September 15, 2019](https://eprint.iacr.org/2019/1049.pdf)
+* [Private Deep Learning in TensorFlow Using Secure Computation](https://arxiv.org/abs/1810.08130)
+* [CryptoDL: Deep Neural Networks over Encrypted Data](https://arxiv.org/abs/1711.05189)
+* [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
+* [CrypTFlow: Secure TensorFlow Inference](https://eprint.iacr.org/2019/1049.pdf)
 
-
-
-# Secure Federated Learning
-
-* [Privacy-Preserving Deep Learning, October 12, 2015](https://dl.acm.org/citation.cfm?id=2813687)
-* [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption, July 15, 2017](https://ieeexplore.ieee.org/document/8241854)
-* [Practical Secure Aggregation for Privacy Preserving Machine Learning, March 27, 2017](https://eprint.iacr.org/2017/281.pdf)
-* [NIKE-based Fast Privacy-preserving High-dimensional Data Aggregation for Mobile Devices, October, 2018](http://cacr.uwaterloo.ca/techreports/2018/cacr2018-10.pdf)
-* [PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks, August 28, 2019](https://eprint.iacr.org/2019/979.pdf)
 
 
 # Libraries and Frameworks
 
 * [TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
-* [SPDZ-2: Multiparty computation with SPDZ and MASCOT offline phase](https://github.com/bristolcrypto/SPDZ-2)
+* [SPDZ-2: Multiparty computation with SPDZ, MASCOT, and Overdrive offline phases](https://github.com/bristolcrypto/SPDZ-2)
 * [ABY: A Framework for Efficient Mixed-Protocol Secure Two-Party Computation](https://github.com/encryptogroup/aby)
 * [Obliv - C: C compiler for embedding privacy preserving protocols:](http://oblivc.org/)
 * [TFHE: Fast Fully Homomorphic Encryption Library over the Torus](https://github.com/tfhe/tfhe)
 * [SEAL: Simple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
 * [PySEAL: Python interface to SEAL](https://github.com/Lab41/PySEAL)
 * [HElib: An Implementation of homomorphic encryption](https://github.com/shaih/HElib])
-* [EzPC: programmable, efficient, and scalable secure two-party computation for machine learning, June 4, 2018](https://eprint.iacr.org/2019/979.pdf)
-* [CHET: Compiler and Runtime for Homomorphic Evaluation of Tensor Programs, October 1, 2018](https://arxiv.org/pdf/1810.00845.pdf)
+* [EzPC: programmable, efficient, and scalable secure two-party computation for machine learning](https://github.com/mpc-msri/EzPC)
+* [CUDA-accelerated Fully Homomorphic Encryption Library](https://github.com/vernamlab/cuFHE)
+* [CrypTen: A framework for Privacy Preserving Machine Learning](https://github.com/facebookresearch/CrypTen)
+* [tf-encrypted: A Framework for Machine Learning on Encrypted Data](https://github.com/tf-encrypted/tf-encrypted)
 
 # General Research
+* [Multiparty computation from somewhat homomorphic encryption, Crypto'12](https://link.springer.com/chapter/10.1007/978-3-642-32009-5_38)
+* [Practical covertly secure MPC for dishonest majority–or: breaking the SPDZ limits, ESORICS'13](https://link.springer.com/chapter/10.1007/978-3-642-40203-6_1)
+* [MASCOT: faster malicious arithmetic secure computation with oblivious transfer, CCS'16](https://dl.acm.org/citation.cfm?id=2978357)
+* [SPDZ^2k: Efficient MPC mod 2^k for Dishonest Majority, Crypto'18](https://link.springer.com/chapter/10.1007/978-3-319-96881-0_26)
+* [Overdrive^2k: Making SPDZ Great Again](https://eprint.iacr.org/2017/1230)
+* [High-Throughput Semi-Honest Secure Three-Party Computation with an Honest Majority, CCS'16](https://dl.acm.org/citation.cfm?id=2978331)
+* [Sharemind: A framework for fast privacy-preserving computations, ESORICS'08](https://link.springer.com/chapter/10.1007/978-3-540-88313-5_13)
+* [Efficiently Verifiable Computation on Encrypted Data, CCS'14](https://dl.acm.org/citation.cfm?id=2660366)
+* [Membership inference attacks against machine learning models, S&P'17](https://ieeexplore.ieee.org/abstract/document/7958568)
+* [Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning, S&P'19](https://ieeexplore.ieee.org/abstract/document/8835245)
+* [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
 
-* [Overdrive: Making SPDZ Great Again](https://eprint.iacr.org/2017/1230)
-* [Privacy-Preserving Logistic Regression Training](https://eprint.iacr.org/2018/233)
-* [Between a Rock and a Hard Place: Interpolating Between MPC and FHE](https://eprint.iacr.org/2013/085.pdf)
-* [Privacy-Preserving Boosting with Random Linear Classifiers for Learning from User-Generated Data](https://arxiv.org/abs/1802.08288)
-* [The Secret Sharer: Measuring Unintended Neural Network Memorization & Extracting Secrets](https://arxiv.org/abs/1802.08232)
-* [Improvements for Gate-Hiding Garbled Circuits](https://eprint.iacr.org/2017/976.pdf)
-* [CryptoRec: Secure Recommendations as a Service](https://arxiv.org/pdf/1802.02432.pdf)
-* [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)
-* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
-* [Differentially Private Generative Adversarial Network](https://arxiv.org/abs/1802.06739)
-* [Doing Real Work with FHE: The Case of Logistic Regression](https://eprint.iacr.org/2018/202)
-* [ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data](https://eprint.iacr.org/2014/617.pdf)
-* [Scalable Private Learning with PATE](https://arxiv.org/abs/1802.08908)
-* [Doing Real Work with FHE: The Case of Logistic Regression](https://eprint.iacr.org/2018/202)
-* [Reading in the Dark: Classifying Encrypted Digits with Functional Encryption](https://eprint.iacr.org/2018/206)
-* [Stealing Hyperparameters in Machine Learning](https://arxiv.org/abs/1802.05351)
-* [How to Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
-* [Federated Optimization:Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
-* [Federated Learning: Strategies for Improving Communicating Efficiency](https://arxiv.org/abs/1610.05492)
-* [Personalized and Private Peer-to-Peer Machine Learning](http://proceedings.mlr.press/v84/bellet18a/bellet18a.pdf)
-* [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) 
-* [Protection Against Reconstruction and Its Applications in Private Federated Learning](https://arxiv.org/abs/1812.00984)
-* [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
-* [Federated Learning of Deep Networks using Model Averaging](https://arxiv.org/abs/1602.05629)
-* [Scalable Private Learning with PATE](https://arxiv.org/abs/1802.08908)
+
 
 
 # Blogs

@@ -1,5 +1,4 @@
 # Privacy-Preserving-Machine-Learning-Resources
-Privacy-Preserving Machine Learning Progress
 
 ## Content
 - [About](#about)

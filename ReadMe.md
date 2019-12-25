@@ -1,4 +1,4 @@
-# Private-Ai-Resources
+# Privacy-Preserving-Machine-Learning-Resources
 Privacy-Preserving Machine Learning Progress
 
 ## Content

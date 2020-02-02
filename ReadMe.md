@@ -39,7 +39,7 @@ This is a current list of resources related to the research and development of p
 * [ASTRA: High Throughput 3PC over Rings with Application to Secure Prediction, CCSW'19](https://eprint.iacr.org/2019/429)
 * [Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning, NDSS'20](https://eprint.iacr.org/2019/1315)
 * [BLAZE: Blazing Fast Privacy-Preserving Machine Learning, NDSS'20](https://eprint.iacr.org/2020/042)
-* [Delphi: A Cryptographic Inference Service for Neural Networks, USENIX Security'20](https://eprint.iacr.org/2020/050)
+* [Delphi: A Cryptographic Inference Service for Neural Networks, USENIX SECURITY'20](https://eprint.iacr.org/2020/050)
 
 * [PySyft: A Generic Framework for Privacy Preserving Deep Learning](https://arxiv.org/abs/1811.04017)
 * [Private Deep Learning in TensorFlow Using Secure Computation](https://arxiv.org/abs/1810.08130)

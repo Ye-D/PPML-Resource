@@ -76,6 +76,7 @@ This is a current list of resources related to the research and development of p
 * [Membership inference attacks against machine learning models, S&P'17](https://ieeexplore.ieee.org/abstract/document/7958568)
 * [Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning, S&P'19](https://ieeexplore.ieee.org/abstract/document/8835245)
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
+* [MachineLearningwithAdversaries: ByzantineTolerantGradientDescen, NIPS'17](http://papers.nips.cc/paper/6617-machine-learning-with-adversaries-byzantine-tolerant-gradient-descent)
 
 
 

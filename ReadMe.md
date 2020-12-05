@@ -81,6 +81,7 @@ This is a current list of resources related to the research and development of p
 * [CrypTen: A framework for Privacy Preserving Machine Learning](https://github.com/facebookresearch/CrypTen)
 * [tf-encrypted: A Framework for Machine Learning on Encrypted Data](https://github.com/tf-encrypted/tf-encrypted)
 * [Sharemind](https://sourceforge.net/projects/sharemind/)
+
 # General Research
 * [Multiparty computation from somewhat homomorphic encryption, Crypto'12](https://link.springer.com/chapter/10.1007/978-3-642-32009-5_38)
 * [Practical covertly secure MPC for dishonest majority–or: breaking the SPDZ limits, ESORICS'13](https://link.springer.com/chapter/10.1007/978-3-642-40203-6_1)
@@ -100,4 +101,5 @@ This is a current list of resources related to the research and development of p
 * [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
 * [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
+* [机器学习隐私保护](https://www.zhihu.com/column/c_1121838720017338368)
 

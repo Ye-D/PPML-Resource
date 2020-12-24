@@ -81,6 +81,7 @@ This is a current list of resources related to the research and development of p
 * [CrypTen: A framework for Privacy Preserving Machine Learning](https://github.com/facebookresearch/CrypTen)
 * [tf-encrypted: A Framework for Machine Learning on Encrypted Data](https://github.com/tf-encrypted/tf-encrypted)
 * [Sharemind](https://sourceforge.net/projects/sharemind/)
+* [PythonPaillier](https://github.com/data61/python-paillier)
 
 # General Research
 * [Multiparty computation from somewhat homomorphic encryption, Crypto'12](https://link.springer.com/chapter/10.1007/978-3-642-32009-5_38)

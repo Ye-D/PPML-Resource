@@ -4,9 +4,11 @@
 - [About](#about)
 - [Secure Machine Learning](#secure-machine-learning)
 - [Secure Federated Learning](#secure-federated-learning)
-- [Libraries and Frameworks](#libraries-and-frameworks)
-- [General Research](#general-research)
+- [MPC](#MPC)
+- [Federated Learning](#federated-learning)
+- [Privacy Leakages of ML/FL](#privacy-leakages-of-ml/fl)
 - [Blogs](#blogs)
+- [Libraries and Frameworks](#libraries-and-frameworks)
 
 # About
 

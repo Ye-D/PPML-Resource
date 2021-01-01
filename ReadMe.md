@@ -13,7 +13,6 @@
 This is a current list of resources related to the research and development of privacy-preserving machine learning.
 
 # Secure Machine Learning
-
 * [Machine Learning Classification over Encrypted Data, NDSS'14](https://eprint.iacr.org/2014/331.pdf)
 * [Oblivious Multi-Party Machine Learning on Trusted Processors, USENIX SECURITY'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/ohrimenko)
 * [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/corrigan-gibbs)
@@ -49,9 +48,9 @@ This is a current list of resources related to the research and development of p
 * [ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation (Full Version), USENIX Security'21](https://eprint.iacr.org/2020/1225.pdf)
 * [Secure Evaluation of Quantized Neural Networks, PETS'20](https://content.sciendo.com/view/journals/popets/2020/4/article-p355.xml)
 * [SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning](https://arxiv.org/abs/2005.10296)
+* [An Efficient 3-Party Framework for Privacy-Preserving Neural Network Inference, ESORICS'20](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_21)
 
 # Secure Federated Learning
-
 * [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)
 * [Practical Secure Aggregation for Privacy Preserving Machine Learning, CCS'17](https://eprint.iacr.org/2017/281.pdf)
 * [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption, TIFS'17](https://ieeexplore.ieee.org/document/8241854)
@@ -66,8 +65,40 @@ This is a current list of resources related to the research and development of p
 * [Batchcrypt: Efficient homomorphic encryption for cross-silo federated learning, USENIX ATC'21](https://www.usenix.org/conference/atc20/presentation/zhang-chengliang)
 * [FedSel: Federated SGD under Local Differential Privacy with Top-k Dimension Selection, DASFAA'20](https://arxiv.org/abs/2003.10637)
 
-# Libraries and Frameworks
+# MPC
+* [Multiparty computation from somewhat homomorphic encryption, Crypto'12](https://link.springer.com/chapter/10.1007/978-3-642-32009-5_38)
+* [Practical covertly secure MPC for dishonest majority–or: breaking the SPDZ limits, ESORICS'13](https://link.springer.com/chapter/10.1007/978-3-642-40203-6_1)
+* [MASCOT: faster malicious arithmetic secure computation with oblivious transfer, CCS'16](https://dl.acm.org/citation.cfm?id=2978357)
+* [SPDZ^2k: Efficient MPC mod 2^k for Dishonest Majority, Crypto'18](https://link.springer.com/chapter/10.1007/978-3-319-96881-0_26)
+* [Overdrive^2k: Making SPDZ Great Again](https://eprint.iacr.org/2017/1230)
+* [High-Throughput Semi-Honest Secure Three-Party Computation with an Honest Majority, CCS'16](https://dl.acm.org/citation.cfm?id=2978331)
+* [Sharemind: A framework for fast privacy-preserving computations, ESORICS'08](https://link.springer.com/chapter/10.1007/978-3-540-88313-5_13)
+* [Efficiently Verifiable Computation on Encrypted Data, CCS'14](https://dl.acm.org/citation.cfm?id=2660366)
+* [PrivPy: General and Scalable Privacy-Preserving Data Mining, KDD'19](https://dl.acm.org/doi/abs/10.1145/3292500.3330920)
 
+# Federated Learning
+## Communication Optimization
+* [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
+* [The Convergence of Sparsified Gradient Methods, NIPS'18](https://papers.nips.cc/paper/2018/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)
+## Byzantine-Tolerant
+* [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent, NIPS'17](http://papers.nips.cc/paper/6617-machine-learning-with-adversaries-byzantine-tolerant-gradient-descent)
+* [Byzantine stochastic gradient descent, NIPS'18](https://papers.nips.cc/paper/2018/file/a07c2f3b3b907aaf8436a26c6d77f0a2-Paper.pdf)
+* [The Hidden Vulnerability of Distributed Learning in Byzantium, ICML'18](https://arxiv.org/abs/1802.07927)
+* [Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates, ICML'18](https://arxiv.org/abs/1803.01498)
+
+# Privacy Leakages of ML/FL
+* [Membership inference attacks against machine learning models, S&P'17](https://ieeexplore.ieee.org/abstract/document/7958568)
+* [Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning, S&P'19](https://ieeexplore.ieee.org/abstract/document/8835245)
+* [Data Poisoning Attacks Against Federated Learning Systems, ESORICS'20](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_24)
+* [A Framework for Evaluating Client Privacy Leakages in Federated Learning, ESORICS'20](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_27)
+
+# Blogs
+* [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
+* [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
+* [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
+* [机器学习隐私保护](https://www.zhihu.com/column/c_1121838720017338368)
+
+# Libraries and Frameworks
 * [TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
 * [SPDZ-2: Multiparty computation with SPDZ, MASCOT, and Overdrive offline phases](https://github.com/bristolcrypto/SPDZ-2)
 * [ABY: A Framework for Efficient Mixed-Protocol Secure Two-Party Computation](https://github.com/encryptogroup/aby)
@@ -82,25 +113,4 @@ This is a current list of resources related to the research and development of p
 * [tf-encrypted: A Framework for Machine Learning on Encrypted Data](https://github.com/tf-encrypted/tf-encrypted)
 * [Sharemind](https://sourceforge.net/projects/sharemind/)
 * [PythonPaillier](https://github.com/data61/python-paillier)
-
-# General Research
-* [Multiparty computation from somewhat homomorphic encryption, Crypto'12](https://link.springer.com/chapter/10.1007/978-3-642-32009-5_38)
-* [Practical covertly secure MPC for dishonest majority–or: breaking the SPDZ limits, ESORICS'13](https://link.springer.com/chapter/10.1007/978-3-642-40203-6_1)
-* [MASCOT: faster malicious arithmetic secure computation with oblivious transfer, CCS'16](https://dl.acm.org/citation.cfm?id=2978357)
-* [SPDZ^2k: Efficient MPC mod 2^k for Dishonest Majority, Crypto'18](https://link.springer.com/chapter/10.1007/978-3-319-96881-0_26)
-* [Overdrive^2k: Making SPDZ Great Again](https://eprint.iacr.org/2017/1230)
-* [High-Throughput Semi-Honest Secure Three-Party Computation with an Honest Majority, CCS'16](https://dl.acm.org/citation.cfm?id=2978331)
-* [Sharemind: A framework for fast privacy-preserving computations, ESORICS'08](https://link.springer.com/chapter/10.1007/978-3-540-88313-5_13)
-* [Efficiently Verifiable Computation on Encrypted Data, CCS'14](https://dl.acm.org/citation.cfm?id=2660366)
-* [Membership inference attacks against machine learning models, S&P'17](https://ieeexplore.ieee.org/abstract/document/7958568)
-* [Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning, S&P'19](https://ieeexplore.ieee.org/abstract/document/8835245)
-* [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
-* [MachineLearningwithAdversaries: ByzantineTolerantGradientDescen, NIPS'17](http://papers.nips.cc/paper/6617-machine-learning-with-adversaries-byzantine-tolerant-gradient-descent)
-
-# Blogs
-
-* [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
-* [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
-* [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
-* [机器学习隐私保护](https://www.zhihu.com/column/c_1121838720017338368)
 

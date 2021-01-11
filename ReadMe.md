@@ -51,6 +51,7 @@ This is a current list of resources related to the research and development of p
 * [Secure Evaluation of Quantized Neural Networks, PETS'20](https://content.sciendo.com/view/journals/popets/2020/4/article-p355.xml)
 * [SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning](https://arxiv.org/abs/2005.10296)
 * [An Efficient 3-Party Framework for Privacy-Preserving Neural Network Inference, ESORICS'20](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_21)
+* [Secure and Verifiable Inference in Deep Neural Networks, ACSAC'20](https://dl.acm.org/doi/abs/10.1145/3427228.3427232)
 
 # Secure Federated Learning
 * [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)

@@ -58,7 +58,7 @@ This is a current list of resources related to the research and development of p
 * [SIRNN: A Math Library for Secure RNN Inference, S&P'21](https://eprint.iacr.org/2021/459)
 * [Let’s Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation, NDSS'21](https://www.ndss-symposium.org/ndss-paper/lets-stride-blindfolded-in-a-forest-sublinear-multi-client-decision-trees-evaluation/)
 * [MUSE: Secure Inference Resilient to Malicious Clients](https://people.eecs.berkeley.edu/~raluca/MUSEcamera.pdf)
-* [DeepReDuce: ReLU Reduction for Fast Private Inference](https://arxiv.org/abs/2103.01396)
+* [DeepReDuce: ReLU Reduction for Fast Private Inference, USENIX Security'21](https://arxiv.org/abs/2103.01396)
 * [Garbled Neural Networks are Practical](https://eprint.iacr.org/2019/338.pdf)
 * [GForce : GPU-Friendly Oblivious and Rapid Neural Network Inference, USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21/presentation/ng)
 * [CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU, S&P'21](http://arxiv.org/abs/2104.10949)
@@ -95,6 +95,7 @@ This is a current list of resources related to the research and development of p
 * [Efficiently Verifiable Computation on Encrypted Data, CCS'14](https://dl.acm.org/citation.cfm?id=2660366)
 * [PrivPy: General and Scalable Privacy-Preserving Data Mining, KDD'19](https://dl.acm.org/doi/abs/10.1145/3292500.3330920)
 * [MP-SPDZ: A Versatile Framework for Multi-Party Computation, CCS'20](https://dl.acm.org/doi/10.1145/3372297.3417872)
+* [MOTION - A Framework for Mixed-Protocol Multi-Party Computation, Cryptology ePrint 2020/1137](https://eprint.iacr.org/2020/1137)
 
 # Federated Learning
 ## Communication Optimization
@@ -105,6 +106,7 @@ This is a current list of resources related to the research and development of p
 * [Byzantine stochastic gradient descent, NIPS'18](https://papers.nips.cc/paper/2018/file/a07c2f3b3b907aaf8436a26c6d77f0a2-Paper.pdf)
 * [The Hidden Vulnerability of Distributed Learning in Byzantium, ICML'18](https://arxiv.org/abs/1802.07927)
 * [Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates, ICML'18](https://arxiv.org/abs/1803.01498)
+* [Local Model Poisoning Attacks to Byzantine-Robust Federated Learning, USENIX Security'20](https://www.usenix.org/conference/usenixsecurity20/presentation/fang)
 * [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping, NDSS'21](https://arxiv.org/abs/2012.13995)
 
 # Privacy Leakages of ML/FL

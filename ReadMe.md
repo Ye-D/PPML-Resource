@@ -60,6 +60,11 @@ This is a current list of resources related to the research and development of p
 * [MUSE: Secure Inference Resilient to Malicious Clients](https://people.eecs.berkeley.edu/~raluca/MUSEcamera.pdf)
 * [DeepReDuce: ReLU Reduction for Fast Private Inference](https://arxiv.org/abs/2103.01396)
 * [Garbled Neural Networks are Practical](https://eprint.iacr.org/2019/338.pdf)
+* [GForce : GPU-Friendly Oblivious and Rapid Neural Network Inference, USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21/presentation/ng)
+* [CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU, S&P'21](http://arxiv.org/abs/2104.10949)
+* [GALA : Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks, NDSS'21](https://www.ndss-symposium.org/ndss-paper/gala-greedy-computation-for-linear-algebra-in-privacy-preserved-neural-networks/)
+* [Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security, USENIX Security'21](https://www.usenix.org/system/files/sec21fall-dalskov.pdf)
+* [When homomorphic encryption marries secret sharing: secure large-scale sparse logistic regression and applications in risk control, KDD'21](https://arxiv.org/abs/2008.08753)
 
 # Secure Federated Learning
 * [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)

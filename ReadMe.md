@@ -156,3 +156,4 @@ This is a current list of resources related to the research and development of p
 * [mnist-mpc](https://github.com/csiro-mlai/mnist-mpc)
 * [Private-Set-Intersection](https://github.com/bit-ml/Private-Set-Intersection)
 * [falcon-public](https://github.com/snwagh/falcon-public)
+* [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)

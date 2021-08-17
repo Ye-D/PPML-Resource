@@ -57,7 +57,7 @@ This is a current list of resources related to the research and development of p
 * [SIRNN: A Math Library for Secure RNN Inference, S&P'21](https://eprint.iacr.org/2021/459)
 * [Let’s Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation, NDSS'21](https://www.ndss-symposium.org/ndss-paper/lets-stride-blindfolded-in-a-forest-sublinear-multi-client-decision-trees-evaluation/)
 * [MUSE: Secure Inference Resilient to Malicious Clients, USENIX Security'21](https://people.eecs.berkeley.edu/~raluca/MUSEcamera.pdf)
-* [DeepReDuce: ReLU Reduction for Fast Private Inference, USENIX Security'21](https://arxiv.org/abs/2103.01396)
+* [DeepReDuce: ReLU Reduction for Fast Private Inference, ICML'21](https://arxiv.org/abs/2103.01396)
 * [Garbled Neural Networks are Practical](https://eprint.iacr.org/2019/338.pdf)
 * [GForce : GPU-Friendly Oblivious and Rapid Neural Network Inference, USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21/presentation/ng)
 * [CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU, S&P'21](http://arxiv.org/abs/2104.10949)

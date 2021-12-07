@@ -10,9 +10,10 @@
 - [Blogs](#blogs)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 
-# About
 
+# About
 This is a current list of resources related to the research and development of privacy-preserving machine learning.
+
 
 # Secure Machine Learning
 * [Machine Learning Classification over Encrypted Data, NDSS'14](https://eprint.iacr.org/2014/331.pdf)
@@ -39,6 +40,7 @@ This is a current list of resources related to the research and development of p
 * [BLAZE: Blazing Fast Privacy-Preserving Machine Learning, NDSS'20](https://eprint.iacr.org/2020/042)
 * [FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning, PoPETs'20](https://eprint.iacr.org/2019/1365)
 * [Delphi: A Cryptographic Inference Service for Neural Networks, USENIX SECURITY'20](https://eprint.iacr.org/2020/050)
+* [ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs, ICPP'20](https://dl.acm.org/doi/abs/10.1145/3404397.3404399)
 * [FALCON: Honest-Majority Maliciously Secure Framework for Private Deep Learning, PoPETs'21](https://arxiv.org/abs/2004.02229)
 * [MP2ML: A Mixed-Protocol Machine Learning Framework for Private Inference, ARES'20](https://dl.acm.org/doi/abs/10.1145/3407023.3407045)
 * [SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search, USENIX Security'20](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao)
@@ -73,6 +75,7 @@ This is a current list of resources related to the research and development of p
 * [Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning, USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21/presentation/zheng)
 * [Tetrad: Actively Secure 4PC for Secure Training and Inference](https://arxiv.org/abs/2106.02850)
 * [Adam in Private : Secure and Fast Training of Deep Neural Networks with Adaptive Moment Estimation](https://arxiv.org/abs/2106.02203)
+* [SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran)
 
 # Secure Federated Learning
 * [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)
@@ -94,7 +97,10 @@ This is a current list of resources related to the research and development of p
 * [PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments, MobiSys'21](https://arxiv.org/abs/2104.14380)
 
 # MPC
+* [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
 * [ABY: A Framework for Efficient Mixed-Protocol Secure Two-Party Computation](https://encrypto.de/papers/DSZ15.pdf)
+* [GMW vs. Yao? Efficient secure two-party computation with low depth circuits, FC'13](https://link.springer.com/chapter/10.1007/978-3-642-39884-1_23)
+* [Secure computation with fixed-point numbers, FC'10](https://link.springer.com/chapter/10.1007/978-3-642-14577-3_6)
 * [Multiparty computation from somewhat homomorphic encryption, Crypto'12](https://link.springer.com/chapter/10.1007/978-3-642-32009-5_38)
 * [Practical covertly secure MPC for dishonest majority–or: breaking the SPDZ limits, ESORICS'13](https://link.springer.com/chapter/10.1007/978-3-642-40203-6_1)
 * [MASCOT: faster malicious arithmetic secure computation with oblivious transfer, CCS'16](https://dl.acm.org/citation.cfm?id=2978357)
@@ -103,12 +109,18 @@ This is a current list of resources related to the research and development of p
 * [High-Throughput Semi-Honest Secure Three-Party Computation with an Honest Majority, CCS'16](https://dl.acm.org/citation.cfm?id=2978331)
 * [Sharemind: A framework for fast privacy-preserving computations, ESORICS'08](https://link.springer.com/chapter/10.1007/978-3-540-88313-5_13)
 * [Efficiently Verifiable Computation on Encrypted Data, CCS'14](https://dl.acm.org/citation.cfm?id=2660366)
+* [Secure outsourced matrix computation and application to neural networks, CCS'18](https://dl.acm.org/doi/10.1145/3243734.3243837)
 * [PrivPy: General and Scalable Privacy-Preserving Data Mining, KDD'19](https://dl.acm.org/doi/abs/10.1145/3292500.3330920)
 * [MP-SPDZ: A Versatile Framework for Multi-Party Computation, CCS'20](https://dl.acm.org/doi/10.1145/3372297.3417872)
+* [Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics, USENIX Security'20](https://www.usenix.org/conference/usenixsecurity21/presentation/poddar)
 * [MOTION - A Framework for Mixed-Protocol Multi-Party Computation, Cryptology ePrint 2020/1137](https://eprint.iacr.org/2020/1137)
 * [ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation (Full Version), USENIX Security'21](https://eprint.iacr.org/2020/1225.pdf)
+* [SynCirc: Efficient Synthesis of Depth-Optimized Circuits for Secure Computation, HOST'21](https://encrypto.de/papers/PSSY21HOST.pdf)
+* [MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation, USENIX OSDI'21](https://www.usenix.org/conference/osdi21/presentation/kumar)
+
 
 # Federated Learning
+
 ## Communication Optimization
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
 * [The Convergence of Sparsified Gradient Methods, NIPS'18](https://papers.nips.cc/paper/2018/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)
@@ -124,6 +136,8 @@ This is a current list of resources related to the research and development of p
 * [Justinian’s GAAvernor: Robust Distributed Learning with Gradient Aggregation Agent, USENIX Security'20](https://www.usenix.org/system/files/sec20-pan.pdf)
 * [Byzantine-robust and privacy-preserving framework for FEDML, ICLR Workshop'21](https://arxiv.org/pdf/2105.02295.pdf)
 * [Learning from History for Byzantine Robust Optimization, ICML'21](http://proceedings.mlr.press/v139/karimireddy21a/karimireddy21a.pdf)
+
+
 # Privacy Leakages of ML/FL
 * [Membership inference attacks against machine learning models, S&P'17](https://ieeexplore.ieee.org/abstract/document/7958568)
 * [Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning, S&P'19](https://ieeexplore.ieee.org/abstract/document/8835245)
@@ -131,11 +145,13 @@ This is a current list of resources related to the research and development of p
 * [A Framework for Evaluating Client Privacy Leakages in Federated Learning, ESORICS'20](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_27)
 * [A Critical Overview of Privacy in Machine Learning, IEEE Security & Privacy'21](https://www.computer.org/csdl/magazine/sp/2021/04/09433648/1tHMTWXyaUE)
 
+
 # Blogs
 * [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
 * [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
 * [机器学习隐私保护](https://www.zhihu.com/column/c_1121838720017338368)
+
 
 # Libraries and Frameworks
 * [TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
@@ -160,3 +176,9 @@ This is a current list of resources related to the research and development of p
 * [Private-Set-Intersection](https://github.com/bit-ml/Private-Set-Intersection)
 * [falcon-public](https://github.com/snwagh/falcon-public)
 * [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)
+* [Antchain-MPC](https://github.com/alipay/Antchain-MPC)
+* [Kunlun](https://github.com/yuchen1024/Kunlun)
+* [MOTION2NX](https://github.com/encryptogroup/MOTION2NX)
+* [SecureQ8](https://github.com/anderspkd/SecureQ8)
+* [mpc-benchmarks](https://github.com/mkskeller/mpc-benchmarks)
+* [muse](https://github.com/mc2-project/muse)

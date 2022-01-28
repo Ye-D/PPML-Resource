@@ -76,6 +76,7 @@ This is a current list of resources related to the research and development of p
 * [Tetrad: Actively Secure 4PC for Secure Training and Inference](https://arxiv.org/abs/2106.02850)
 * [Adam in Private : Secure and Fast Training of Deep Neural Networks with Adaptive Moment Estimation](https://arxiv.org/abs/2106.02203)
 * [SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran)
+* [Circa : Stochastic ReLUs for Private Deep Learning, NeurIPS'21](https://proceedings.neurips.cc/paper/2021/file/11eba2991cc62daa4a85be5c0cfdae97-Paper.pdf)
 
 # Secure Federated Learning
 * [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)
@@ -113,10 +114,13 @@ This is a current list of resources related to the research and development of p
 * [PrivPy: General and Scalable Privacy-Preserving Data Mining, KDD'19](https://dl.acm.org/doi/abs/10.1145/3292500.3330920)
 * [MP-SPDZ: A Versatile Framework for Multi-Party Computation, CCS'20](https://dl.acm.org/doi/10.1145/3372297.3417872)
 * [Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics, USENIX Security'20](https://www.usenix.org/conference/usenixsecurity21/presentation/poddar)
-* [MOTION - A Framework for Mixed-Protocol Multi-Party Computation, Cryptology ePrint 2020/1137](https://eprint.iacr.org/2020/1137)
+* [Improved primitives for mpc over mixed arithmetic-binary circuits, CRYPTO'20](https://eprint.iacr.org/2020/338.pdf)
+* [MOTION - A Framework for Mixed-Protocol Multi-Party Computation, TOPS'21](https://eprint.iacr.org/2020/1137)
 * [ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation (Full Version), USENIX Security'21](https://eprint.iacr.org/2020/1225.pdf)
 * [SynCirc: Efficient Synthesis of Depth-Optimized Circuits for Secure Computation, HOST'21](https://encrypto.de/papers/PSSY21HOST.pdf)
 * [MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation, USENIX OSDI'21](https://www.usenix.org/conference/osdi21/presentation/kumar)
+* [VASA : Vector AES Instructions for Security Applications, ACSAC'21](https://eprint.iacr.org/2021/1493.pdf)
+* [ATLAS: Efficient and Scalable MPC in the Honest Majority Setting, CRYPTO'21](https://eprint.iacr.org/2021/833)
 
 
 # Federated Learning
@@ -136,6 +140,7 @@ This is a current list of resources related to the research and development of p
 * [Justinian’s GAAvernor: Robust Distributed Learning with Gradient Aggregation Agent, USENIX Security'20](https://www.usenix.org/system/files/sec20-pan.pdf)
 * [Byzantine-robust and privacy-preserving framework for FEDML, ICLR Workshop'21](https://arxiv.org/pdf/2105.02295.pdf)
 * [Learning from History for Byzantine Robust Optimization, ICML'21](http://proceedings.mlr.press/v139/karimireddy21a/karimireddy21a.pdf)
+* [FLAME: Taming backdoors in federated learning, USENIX Security'22](https://arxiv.org/abs/2101.02281)
 
 
 # Privacy Leakages of ML/FL

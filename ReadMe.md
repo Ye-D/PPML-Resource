@@ -15,6 +15,7 @@ This is a current list of resources related to the research and development of p
 
 
 # Secure Machine Learning
+* [安全多方计算及其在机器学习中的应用, 计算机研究与发展'21](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20210626)
 * [Machine Learning Classification over Encrypted Data, NDSS'14](https://eprint.iacr.org/2014/331.pdf)
 * [Oblivious Multi-Party Machine Learning on Trusted Processors, USENIX SECURITY'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/ohrimenko)
 * [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/corrigan-gibbs)
@@ -79,10 +80,12 @@ This is a current list of resources related to the research and development of p
 * [Circa : Stochastic ReLUs for Private Deep Learning, NeurIPS'21](https://proceedings.neurips.cc/paper/2021/file/11eba2991cc62daa4a85be5c0cfdae97-Paper.pdf)
 * [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference, USENIX Security'22](https://eprint.iacr.org/2022/207)
 * [Secure Poisson Regression, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/kelkar)
+* [SecFloat: Accurate Floating-Point meets Secure 2-Party Computation, S&P'22](https://eprint.iacr.org/2022/322)
 * [MPClan: Protocol Suite for Privacy-Conscious Computations, IACR ePrint'22](https://eprint.iacr.org/2022/675)
 * [LLAMA: A Low Latency Math Library for Secure Inference, PoPETs'22](https://eprint.iacr.org/2022/793)
 
 # MPC
+* [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
 * [Scalable and unconditionally secure multiparty computation, Crypto'07](https://www.iacr.org/archive/crypto2007/46220565/46220565.pdf)
 * [Sharemind: A framework for fast privacy-preserving computations, ESORICS'08](https://link.springer.com/chapter/10.1007/978-3-540-88313-5_13)
 * [Secure computation with fixed-point numbers, FC'10](https://link.springer.com/chapter/10.1007/978-3-642-14577-3_6)
@@ -90,7 +93,6 @@ This is a current list of resources related to the research and development of p
 * [Practical covertly secure MPC for dishonest majority–or: breaking the SPDZ limits, ESORICS'13](https://link.springer.com/chapter/10.1007/978-3-642-40203-6_1)
 * [GMW vs. Yao? Efficient secure two-party computation with low depth circuits, FC'13](https://link.springer.com/chapter/10.1007/978-3-642-39884-1_23)
 * [Efficiently Verifiable Computation on Encrypted Data, CCS'14](https://dl.acm.org/citation.cfm?id=2660366)
-* [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
 * [ABY: A Framework for Efficient Mixed-Protocol Secure Two-Party Computation, NDSS'15](https://encrypto.de/papers/DSZ15.pdf)
 * [MASCOT: faster malicious arithmetic secure computation with oblivious transfer, CCS'16](https://dl.acm.org/citation.cfm?id=2978357)
 * [High-Throughput Semi-Honest Secure Three-Party Computation with an Honest Majority, CCS'16](https://dl.acm.org/citation.cfm?id=2978331)
@@ -111,8 +113,6 @@ This is a current list of resources related to the research and development of p
 * [VASA : Vector AES Instructions for Security Applications, ACSAC'21](https://eprint.iacr.org/2021/1493.pdf)
 * [ATLAS: Efficient and Scalable MPC in the Honest Majority Setting, CRYPTO'21](https://eprint.iacr.org/2021/833)
 * [The Cost of IEEE Arithmetic in Secure Computation, LatinCrypt'21](https://eprint.iacr.org/2021/054)
-* [安全多方计算及其在机器学习中的应用, 计算机研究与发展'21](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20210626)
-* [SecFloat: Accurate Floating-Point meets Secure 2-Party Computation, S&P'22](https://eprint.iacr.org/2022/322)
 * [Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority, CCS'22](https://eprint.iacr.org/2022/623)
 
 

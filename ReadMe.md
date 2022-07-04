@@ -83,6 +83,7 @@ This is a current list of resources related to the research and development of p
 * [SecFloat: Accurate Floating-Point meets Secure 2-Party Computation, S&P'22](https://eprint.iacr.org/2022/322)
 * [MPClan: Protocol Suite for Privacy-Conscious Computations, IACR ePrint'22](https://eprint.iacr.org/2022/675)
 * [LLAMA: A Low Latency Math Library for Secure Inference, PoPETs'22](https://eprint.iacr.org/2022/793)
+* [Pika: Secure Computation using Function Secret Sharing over Rings, PoPETs'22](https://eprint.iacr.org/2022/826)
 
 # MPC
 * [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
@@ -102,10 +103,13 @@ This is a current list of resources related to the research and development of p
 * [SPDZ^2k: Efficient MPC mod 2^k for Dishonest Majority, Crypto'18](https://link.springer.com/chapter/10.1007/978-3-319-96881-0_26)
 * [Secure outsourced matrix computation and application to neural networks, CCS'18](https://dl.acm.org/doi/10.1145/3243734.3243837)
 * [Fast large-scale honest-majority MPC for malicious adversaries, Crypto'18](https://eprint.iacr.org/2018/570)
+* [Minimising communication in honest-majority MPC by batchwise multiplication verification, ACNS'18](https://eprint.iacr.org/2018/474)
 * [PrivPy: General and Scalable Privacy-Preserving Data Mining, KDD'19](https://dl.acm.org/doi/abs/10.1145/3292500.3330920)
+* [Two-thirds honest-majority MPC for malicious adversaries at almost the cost of semi-honest, CCS'19](https://dl.acm.org/doi/10.1145/3319535.3339811)
 * [MP-SPDZ: A Versatile Framework for Multi-Party Computation, CCS'20](https://dl.acm.org/doi/10.1145/3372297.3417872)
 * [Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics, USENIX Security'20](https://www.usenix.org/conference/usenixsecurity21/presentation/poddar)
 * [Improved primitives for mpc over mixed arithmetic-binary circuits, CRYPTO'20](https://eprint.iacr.org/2020/338.pdf)
+* [Malicious Security Comes Free in Honest-Majority MPC, ePrint'20](https://eprint.iacr.org/2020/134)
 * [MOTION - A Framework for Mixed-Protocol Multi-Party Computation, TOPS'21](https://eprint.iacr.org/2020/1137)
 * [ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation (Full Version), USENIX Security'21](https://eprint.iacr.org/2020/1225.pdf)
 * [SynCirc: Efficient Synthesis of Depth-Optimized Circuits for Secure Computation, HOST'21](https://encrypto.de/papers/PSSY21HOST.pdf)
@@ -114,7 +118,6 @@ This is a current list of resources related to the research and development of p
 * [ATLAS: Efficient and Scalable MPC in the Honest Majority Setting, CRYPTO'21](https://eprint.iacr.org/2021/833)
 * [The Cost of IEEE Arithmetic in Secure Computation, LatinCrypt'21](https://eprint.iacr.org/2021/054)
 * [Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority, CCS'22](https://eprint.iacr.org/2022/623)
-
 
 # Federated Learning
 ## Secure Federated Learning

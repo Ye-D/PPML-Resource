@@ -94,6 +94,7 @@ This is a current list of resources related to the research and development of p
 * [Efficient Secure Three-Party Sorting with Applications to Data Analysis and Heavy Hitters, CCS'22](https://eprint.iacr.org/2019/695)
 * [Private and Reliable Neural Network Inference, CCS'22](https://files.sri.inf.ethz.ch/website/papers/ccs22-phoenix.pdf)
 * [SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering, CCS'22](https://eprint.iacr.org/2022/757)
+* [SecureBiNN: 3-Party Secure Computation for Binarized Neural Network Inference, ESORICS'22](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_14)
 
 # MPC
 * [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
@@ -116,6 +117,7 @@ This is a current list of resources related to the research and development of p
 * [Minimising communication in honest-majority MPC by batchwise multiplication verification, ACNS'18](https://eprint.iacr.org/2018/474)
 * [PrivPy: General and Scalable Privacy-Preserving Data Mining, KDD'19](https://dl.acm.org/doi/abs/10.1145/3292500.3330920)
 * [Two-thirds honest-majority MPC for malicious adversaries at almost the cost of semi-honest, CCS'19](https://dl.acm.org/doi/10.1145/3319535.3339811)
+* [Turbospeedz: Double your online SPDZ! Improving SPDZ using function dependent preprocessing, ACNS'19](https://eprint.iacr.org/2019/080)
 * [MP-SPDZ: A Versatile Framework for Multi-Party Computation, CCS'20](https://dl.acm.org/doi/10.1145/3372297.3417872)
 * [Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics, USENIX Security'20](https://www.usenix.org/conference/usenixsecurity21/presentation/poddar)
 * [Improved primitives for mpc over mixed arithmetic-binary circuits, CRYPTO'20](https://eprint.iacr.org/2020/338.pdf)

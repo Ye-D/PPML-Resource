@@ -1,11 +1,16 @@
 # Privacy-Preserving-Machine-Learning-Resources
 
 ## Content
+- [Privacy-Preserving-Machine-Learning-Resources](#privacy-preserving-machine-learning-resources)
+  - [Content](#content)
 - [About](#about)
 - [Secure Machine Learning](#secure-machine-learning)
-- [MPC](#MPC)
+- [MPC](#mpc)
 - [Federated Learning](#federated-learning)
-- [Privacy Leakages of ML/FL](#privacy-leakages-of-ml/fl)
+  - [Secure Federated Learning](#secure-federated-learning)
+  - [Communication Optimization](#communication-optimization)
+  - [Byzantine-Tolerant](#byzantine-tolerant)
+- [Privacy Leakages of ML/FL](#privacy-leakages-of-mlfl)
 - [Blogs](#blogs)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 
@@ -86,6 +91,9 @@ This is a current list of resources related to the research and development of p
 * [LLAMA: A Low Latency Math Library for Secure Inference, PoPETs'22](https://eprint.iacr.org/2022/793)
 * [Pika: Secure Computation using Function Secret Sharing over Rings, PoPETs'22](https://eprint.iacr.org/2022/826)
 * [Piranha: A GPU Platform for Secure Computation, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/watson)
+* [Efficient Secure Three-Party Sorting with Applications to Data Analysis and Heavy Hitters, CCS'22](https://eprint.iacr.org/2019/695)
+* [Private and Reliable Neural Network Inference, CCS'22](https://files.sri.inf.ethz.ch/website/papers/ccs22-phoenix.pdf)
+* [SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering, CCS'22](https://eprint.iacr.org/2022/757)
 
 # MPC
 * [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
@@ -120,6 +128,10 @@ This is a current list of resources related to the research and development of p
 * [ATLAS: Efficient and Scalable MPC in the Honest Majority Setting, CRYPTO'21](https://eprint.iacr.org/2021/833)
 * [The Cost of IEEE Arithmetic in Secure Computation, LatinCrypt'21](https://eprint.iacr.org/2021/054)
 * [Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority, CCS'22](https://eprint.iacr.org/2022/623)
+* [NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms, CCS'22](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html)
+* [PentaGOD: Stepping beyond Traditional GOD with Five Parties, CCS'22](https://eprint.iacr.org/2022/1118)
+* [TurboPack: Honest Majority MPC with Constant Online Communication, CCS'22](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html)
+* [Selective MPC: Distributed Computation of Differentially Private Key-Value Statistics, CCS'22](https://arxiv.org/abs/2107.12407)
 
 # Federated Learning
 ## Secure Federated Learning
@@ -140,6 +152,7 @@ This is a current list of resources related to the research and development of p
 * [Biscotti: A Blockchain System for Private and Secure Federated Learning, TPDS'21](https://ieeexplore.ieee.org/document/9292450)
 * [POSEIDON: Privacy-Preserving Federated Neural Network Learning, NDSS'21](https://arxiv.org/abs/2009.00349)
 * [PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments, MobiSys'21](https://arxiv.org/abs/2104.14380)
+* [EIFFeL: Ensuring Integrity for Federated Learning, CCS'22](https://arxiv.org/abs/2112.12727)
 
 ## Communication Optimization
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
@@ -165,6 +178,7 @@ This is a current list of resources related to the research and development of p
 * [Data Poisoning Attacks Against Federated Learning Systems, ESORICS'20](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_24)
 * [A Framework for Evaluating Client Privacy Leakages in Federated Learning, ESORICS'20](https://link.springer.com/chapter/10.1007/978-3-030-58951-6_27)
 * [A Critical Overview of Privacy in Machine Learning, IEEE Security & Privacy'21](https://www.computer.org/csdl/magazine/sp/2021/04/09433648/1tHMTWXyaUE)
+* [Enhanced Membership Inference Attacks against Machine Learning Models, CCS'22](https://arxiv.org/abs/2111.09679)
 
 
 # Blogs

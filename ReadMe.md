@@ -155,6 +155,7 @@ This is a current list of resources related to the research and development of p
 * [POSEIDON: Privacy-Preserving Federated Neural Network Learning, NDSS'21](https://arxiv.org/abs/2009.00349)
 * [PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments, MobiSys'21](https://arxiv.org/abs/2104.14380)
 * [EIFFeL: Ensuring Integrity for Federated Learning, CCS'22](https://arxiv.org/abs/2112.12727)
+* [Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens)
 
 ## Communication Optimization
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)

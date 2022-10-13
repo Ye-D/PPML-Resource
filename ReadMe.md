@@ -134,6 +134,8 @@ This is a current list of resources related to the research and development of p
 * [PentaGOD: Stepping beyond Traditional GOD with Five Parties, CCS'22](https://eprint.iacr.org/2022/1118)
 * [TurboPack: Honest Majority MPC with Constant Online Communication, CCS'22](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html)
 * [Selective MPC: Distributed Computation of Differentially Private Key-Value Statistics, CCS'22](https://arxiv.org/abs/2107.12407)
+* [To Trust or Not to Trust: Hybrid Multi-party Computation with Trusted Execution Environment, NDSS'22](https://www.ndss-symposium.org/ndss-paper/auto-draft-222/)
+* [Binary Search in Secure Computation, NDSS'22](https://eprint.iacr.org/2021/1049)
 
 # Federated Learning
 ## Secure Federated Learning
@@ -156,6 +158,7 @@ This is a current list of resources related to the research and development of p
 * [PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments, MobiSys'21](https://arxiv.org/abs/2104.14380)
 * [EIFFeL: Ensuring Integrity for Federated Learning, CCS'22](https://arxiv.org/abs/2112.12727)
 * [Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens)
+* [Local and Central Differential Privacy for Robustness and Privacy in Federated Learning, NDSS'22](https://arxiv.org/abs/2009.03561)
 
 ## Communication Optimization
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)

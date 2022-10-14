@@ -136,6 +136,9 @@ This is a current list of resources related to the research and development of p
 * [Selective MPC: Distributed Computation of Differentially Private Key-Value Statistics, CCS'22](https://arxiv.org/abs/2107.12407)
 * [To Trust or Not to Trust: Hybrid Multi-party Computation with Trusted Execution Environment, NDSS'22](https://www.ndss-symposium.org/ndss-paper/auto-draft-222/)
 * [Binary Search in Secure Computation, NDSS'22](https://eprint.iacr.org/2021/1049)
+* [More Efficient Dishonest Majority Secure Computation over $\mathbb{Z}_{2^k}$ via Galois Rings, Crypto'22](https://eprint.iacr.org/2022/815)
+* [Sharing Transformation and Dishonest Majority MPC with Packed Secret Sharing, Crypto'22](https://eprint.iacr.org/2022/831)
+* [Le Mans: Dynamic and Fluid MPC for Dishonest Majority, Crypto'22](https://eprint.iacr.org/2021/1579)
 
 # Federated Learning
 ## Secure Federated Learning

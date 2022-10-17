@@ -139,6 +139,14 @@ This is a current list of resources related to the research and development of p
 * [More Efficient Dishonest Majority Secure Computation over $\mathbb{Z}_{2^k}$ via Galois Rings, Crypto'22](https://eprint.iacr.org/2022/815)
 * [Sharing Transformation and Dishonest Majority MPC with Packed Secret Sharing, Crypto'22](https://eprint.iacr.org/2022/831)
 * [Le Mans: Dynamic and Fluid MPC for Dishonest Majority, Crypto'22](https://eprint.iacr.org/2021/1579)
+* [Round-Optimal and Communication-Efficient Multiparty Computation, EUROCRYPT'22](https://eprint.iacr.org/2020/1437)
+* [Practical Non-interactive Publicly Verifiable Secret Sharing with Thousands of Parties, EUROCRYPT'22](https://eprint.iacr.org/2021/1397)
+* [Highly Efficient OT-Based Multiplication Protocols, EUROCRYPT'22](https://eprint.iacr.org/2021/1373.pdf)
+* [Batch-OT with Optimal Rate, EUROCRYPT'22](https://www.iacr.org/cryptodb/data/paper.php?pubkey=31828)
+* [Round-Optimal Multi-Party Computation with Identifiable Abort, EUROCRYPT'22](https://eprint.iacr.org/2022/645)
+* [Secure Multiparty Computation with Free Branching, EUROCRYPT'22](https://www.iacr.org/cryptodb/data/paper.php?pubkey=31942)
+* [Secure Multiparty Computation with Sublinear Preprocessing, EUROCRYPT'22](https://iacr.org/cryptodb/data/paper.php?pubkey=31948)
+* [Attaining GOD Beyond Honest Majority With Friends and Foes, Asiacrypt'22](https://eprint.iacr.org/2022/1207)
 
 # Federated Learning
 ## Secure Federated Learning

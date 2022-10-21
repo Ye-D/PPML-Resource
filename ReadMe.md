@@ -80,7 +80,7 @@ This is a current list of resources related to the research and development of p
 * [Secure Quantized Training for Deep Learning, ICML](https://arxiv.org/abs/2107.00501)
 * [Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning, USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21/presentation/zheng)
 * [Tetrad: Actively Secure 4PC for Secure Training and Inference, NDSS'22](https://arxiv.org/abs/2106.02850)
-* [Adam in Private : Secure and Fast Training of Deep Neural Networks with Adaptive Moment Estimation](https://arxiv.org/abs/2106.02203)
+* [Adam in Private : Secure and Fast Training of Deep Neural Networks with Adaptive Moment Estimation, PoPETs'22](https://arxiv.org/abs/2106.02203)
 * [SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran)
 * [Circa : Stochastic ReLUs for Private Deep Learning, NeurIPS'21](https://proceedings.neurips.cc/paper/2021/file/11eba2991cc62daa4a85be5c0cfdae97-Paper.pdf)
 * [Banners: Binarized Neural Networks with Replicated Secret Sharing, IH&MMSec'21](https://dl.acm.org/doi/10.1145/3437880.3460394)
@@ -147,6 +147,8 @@ This is a current list of resources related to the research and development of p
 * [Secure Multiparty Computation with Free Branching, EUROCRYPT'22](https://www.iacr.org/cryptodb/data/paper.php?pubkey=31942)
 * [Secure Multiparty Computation with Sublinear Preprocessing, EUROCRYPT'22](https://iacr.org/cryptodb/data/paper.php?pubkey=31948)
 * [Attaining GOD Beyond Honest Majority With Friends and Foes, Asiacrypt'22](https://eprint.iacr.org/2022/1207)
+* [Polymath: Low-Latency MPC via Secure Polynomial Evaluations and Its Applications, PoPETs'22](https://petsymposium.org/popets/2022/popets-2022-0020.pdf)
+* 
 
 # Federated Learning
 ## Secure Federated Learning

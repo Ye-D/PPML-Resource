@@ -148,7 +148,6 @@ This is a current list of resources related to the research and development of p
 * [Secure Multiparty Computation with Sublinear Preprocessing, EUROCRYPT'22](https://iacr.org/cryptodb/data/paper.php?pubkey=31948)
 * [Attaining GOD Beyond Honest Majority With Friends and Foes, Asiacrypt'22](https://eprint.iacr.org/2022/1207)
 * [Polymath: Low-Latency MPC via Secure Polynomial Evaluations and Its Applications, PoPETs'22](https://petsymposium.org/popets/2022/popets-2022-0020.pdf)
-* 
 
 # Federated Learning
 ## Secure Federated Learning

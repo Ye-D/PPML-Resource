@@ -95,6 +95,8 @@ This is a current list of resources related to the research and development of p
 * [Private and Reliable Neural Network Inference, CCS'22](https://files.sri.inf.ethz.ch/website/papers/ccs22-phoenix.pdf)
 * [SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering, CCS'22](https://eprint.iacr.org/2022/757)
 * [SecureBiNN: 3-Party Secure Computation for Binarized Neural Network Inference, ESORICS'22](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_14)
+* [Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a076/1He7XMLcnsc)
+* [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b295/1Js0DPq2AqQ)
 
 # MPC
 * [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
@@ -148,6 +150,7 @@ This is a current list of resources related to the research and development of p
 * [Secure Multiparty Computation with Sublinear Preprocessing, EUROCRYPT'22](https://iacr.org/cryptodb/data/paper.php?pubkey=31948)
 * [Attaining GOD Beyond Honest Majority With Friends and Foes, Asiacrypt'22](https://eprint.iacr.org/2022/1207)
 * [Polymath: Low-Latency MPC via Secure Polynomial Evaluations and Its Applications, PoPETs'22](https://petsymposium.org/popets/2022/popets-2022-0020.pdf)
+* [Silph: A Framework for Scalable and Accurate Generation of Hybrid MPC Protocols, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b796/1Js0Em52Wn6)
 
 # Federated Learning
 ## Secure Federated Learning
@@ -171,6 +174,7 @@ This is a current list of resources related to the research and development of p
 * [EIFFeL: Ensuring Integrity for Federated Learning, CCS'22](https://arxiv.org/abs/2112.12727)
 * [Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens)
 * [Local and Central Differential Privacy for Robustness and Privacy in Federated Learning, NDSS'22](https://arxiv.org/abs/2009.03561)
+* [ELSA: Secure Aggregation for Federated Learning with Malicious Actors, S&P'23](https://eprint.iacr.org/2022/1695)
 
 ## Communication Optimization
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)

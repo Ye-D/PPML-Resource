@@ -23,7 +23,6 @@ This is a current list of resources related to the research and development of p
 * [安全多方计算及其在机器学习中的应用, 计算机研究与发展'21](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20210626)
 * [Machine Learning Classification over Encrypted Data, NDSS'14](https://eprint.iacr.org/2014/331.pdf)
 * [Oblivious Multi-Party Machine Learning on Trusted Processors, USENIX SECURITY'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/ohrimenko)
-* [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/corrigan-gibbs)
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning, S&P'17](https://eprint.iacr.org/2017/396)
 * [MiniONN: Oblivious Neural Network Predictions via MiniONN Transformations, CCS'17](https://acmccs.github.io/papers/p619-liuA.pdf)
 * [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, AsiaCCS'17](https://eprint.iacr.org/2017/1164)
@@ -155,6 +154,7 @@ This is a current list of resources related to the research and development of p
 # Federated Learning
 ## Secure Federated Learning
 * [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)
+* [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/corrigan-gibbs)
 * [Practical Secure Aggregation for Privacy Preserving Machine Learning, CCS'17](https://eprint.iacr.org/2017/281.pdf)
 * [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption, TIFS'17](https://ieeexplore.ieee.org/document/8241854)
 * [NIKE-based Fast Privacy-preserving High-dimensional Data Aggregation for Mobile Devices, CACR'18](http://cacr.uwaterloo.ca/techreports/2018/cacr2018-10.pdf)
@@ -173,6 +173,7 @@ This is a current list of resources related to the research and development of p
 * [PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments, MobiSys'21](https://arxiv.org/abs/2104.14380)
 * [EIFFeL: Ensuring Integrity for Federated Learning, CCS'22](https://arxiv.org/abs/2112.12727)
 * [Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors, USENIX Security'22](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens)
+* [Prio+: Privacy Preserving Aggregate Statistics via Boolean Shares, SCN'22](https://link.springer.com/chapter/10.1007/978-3-031-14791-3_23)
 * [Local and Central Differential Privacy for Robustness and Privacy in Federated Learning, NDSS'22](https://arxiv.org/abs/2009.03561)
 * [ELSA: Secure Aggregation for Federated Learning with Malicious Actors, S&P'23](https://eprint.iacr.org/2022/1695)
 

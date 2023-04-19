@@ -154,6 +154,7 @@ This is a current list of resources related to the research and development of p
 * [Polymath: Low-Latency MPC via Secure Polynomial Evaluations and Its Applications, PoPETs'22](https://petsymposium.org/popets/2022/popets-2022-0020.pdf)
 * [Silph: A Framework for Scalable and Accurate Generation of Hybrid MPC Protocols, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b796/1Js0Em52Wn6)
 * [Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection, NDSS'23](https://www.ndss-symposium.org/ndss-paper/faster-secure-comparisons-with-offline-phase-for-efficient-private-set-intersection/)
+* [FLUTE: Fast and Secure Lookup Table Evaluations, S&P'23](https://eprint.iacr.org/2023/499)
 
 # Federated Learning
 ## Secure Federated Learning

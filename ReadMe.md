@@ -93,12 +93,16 @@ This is a current list of resources related to the research and development of p
 * [Efficient Secure Three-Party Sorting with Applications to Data Analysis and Heavy Hitters, CCS'22](https://eprint.iacr.org/2019/695)
 * [Private and Reliable Neural Network Inference, CCS'22](https://files.sri.inf.ethz.ch/website/papers/ccs22-phoenix.pdf)
 * [SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering, CCS'22](https://eprint.iacr.org/2022/757)
+* [Iron: Private Inference on Transformers, NeurIPS '22](https://openreview.net/forum?id=deyqjpcTfsG)
 * [Private and Reliable Neural Network Inference, CCS'22](https://files.sri.inf.ethz.ch/website/papers/ccs22-phoenix.pdf)
 * [SecureBiNN: 3-Party Secure Computation for Binarized Neural Network Inference, ESORICS'22](https://link.springer.com/chapter/10.1007/978-3-031-17143-7_14)
+* [Meteor: Improved Secure 3-Party Neural Network Inference with Reducing Online Communication Costs, WWW'23](https://dl.acm.org/doi/abs/10.1145/3543507.3583272)
 * [Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a076/1He7XMLcnsc)
 * [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b295/1Js0DPq2AqQ)
 * [Fusion: Efficient and Secure Inference Resilient to Malicious Servers, NDSS'23](https://www.ndss-symposium.org/ndss-paper/fusion-efficient-and-secure-inference-resilient-to-malicious-servers/)
 * [REDsec: Running Encrypted Discretized Neural Networks in Seconds, NDSS'23](https://www.ndss-symposium.org/ndss-paper/redsec-running-encrypted-discretized-neural-networks-in-seconds/)
+* [SoK: Cryptographic Neural-Network Computation, SP'23](https://sokcryptonn.github.io/)
+* [PUMA: Secure Inference of LLaMA-7B in Five Minutes](https://arxiv.org/abs/2307.12533)
 
 # MPC
 * [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
@@ -152,7 +156,6 @@ This is a current list of resources related to the research and development of p
 * [Secure Multiparty Computation with Sublinear Preprocessing, EUROCRYPT'22](https://iacr.org/cryptodb/data/paper.php?pubkey=31948)
 * [Attaining GOD Beyond Honest Majority With Friends and Foes, Asiacrypt'22](https://eprint.iacr.org/2022/1207)
 * [Polymath: Low-Latency MPC via Secure Polynomial Evaluations and Its Applications, PoPETs'22](https://petsymposium.org/popets/2022/popets-2022-0020.pdf)
-* [Iron: Private Inference on Transformers, NeurIPS '22](https://openreview.net/forum?id=deyqjpcTfsG)
 * [Silph: A Framework for Scalable and Accurate Generation of Hybrid MPC Protocols, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b796/1Js0Em52Wn6)
 * [Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection, NDSS'23](https://www.ndss-symposium.org/ndss-paper/faster-secure-comparisons-with-offline-phase-for-efficient-private-set-intersection/)
 * [FLUTE: Fast and Secure Lookup Table Evaluations, S&P'23](https://eprint.iacr.org/2023/499)
@@ -182,6 +185,8 @@ This is a current list of resources related to the research and development of p
 * [Prio+: Privacy Preserving Aggregate Statistics via Boolean Shares, SCN'22](https://link.springer.com/chapter/10.1007/978-3-031-14791-3_23)
 * [Local and Central Differential Privacy for Robustness and Privacy in Federated Learning, NDSS'22](https://arxiv.org/abs/2009.03561)
 * [ELSA: Secure Aggregation for Federated Learning with Malicious Actors, S&P'23](https://eprint.iacr.org/2022/1695)
+* [Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning, SP'23](https://eprint.iacr.org/2023/486)
+* [RoFL: Robustness of Secure Federated Learning, SP'23](https://arxiv.org/abs/2107.03311)
 
 ## Communication Optimization
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
@@ -199,6 +204,7 @@ This is a current list of resources related to the research and development of p
 * [Byzantine-robust and privacy-preserving framework for FEDML, ICLR Workshop'21](https://arxiv.org/pdf/2105.02295.pdf)
 * [Learning from History for Byzantine Robust Optimization, ICML'21](http://proceedings.mlr.press/v139/karimireddy21a/karimireddy21a.pdf)
 * [FLAME: Taming backdoors in federated learning, USENIX Security'22](https://arxiv.org/abs/2101.02281)
+* [BayBFed: Bayesian Backdoor Defense for Federated Learning, SP'23](https://arxiv.org/abs/2301.09508)
 
 
 # Privacy Leakages of ML/FL
@@ -248,4 +254,4 @@ This is a current list of resources related to the research and development of p
 * [muse](https://github.com/mc2-project/muse)
 * [Primihub](https://github.com/primihub/primihub)
 * [concrete](https://github.com/zama-ai/concrete)
-* [secretflow](https://github.com/secretflow/secretflow)
+* [SecretFlow](https://github.com/secretflow/secretflow)

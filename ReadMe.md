@@ -102,6 +102,8 @@ This is a current list of resources related to the research and development of p
 * [Fusion: Efficient and Secure Inference Resilient to Malicious Servers, NDSS'23](https://www.ndss-symposium.org/ndss-paper/fusion-efficient-and-secure-inference-resilient-to-malicious-servers/)
 * [REDsec: Running Encrypted Discretized Neural Networks in Seconds, NDSS'23](https://www.ndss-symposium.org/ndss-paper/redsec-running-encrypted-discretized-neural-networks-in-seconds/)
 * [SoK: Cryptographic Neural-Network Computation, SP'23](https://sokcryptonn.github.io/)
+* [Secure Floating-Point Training, USENIX Security'23](https://www.usenix.org/system/files/sec23fall-prepub-212-rathee.pdf)
+* [Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree, USENIX Security'23](https://www.usenix.org/conference/usenixsecurity23/presentation/lu)
 * [PUMA: Secure Inference of LLaMA-7B in Five Minutes](https://arxiv.org/abs/2307.12533)
 
 # MPC

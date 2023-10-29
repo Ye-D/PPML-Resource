@@ -101,10 +101,16 @@ This is a current list of resources related to the research and development of p
 * [Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b295/1Js0DPq2AqQ)
 * [Fusion: Efficient and Secure Inference Resilient to Malicious Servers, NDSS'23](https://www.ndss-symposium.org/ndss-paper/fusion-efficient-and-secure-inference-resilient-to-malicious-servers/)
 * [REDsec: Running Encrypted Discretized Neural Networks in Seconds, NDSS'23](https://www.ndss-symposium.org/ndss-paper/redsec-running-encrypted-discretized-neural-networks-in-seconds/)
-* [SoK: Cryptographic Neural-Network Computation, SP'23](https://sokcryptonn.github.io/)
+* [SoK: Cryptographic Neural-Network Computation, S&P'23](https://sokcryptonn.github.io/)
 * [Secure Floating-Point Training, USENIX Security'23](https://www.usenix.org/system/files/sec23fall-prepub-212-rathee.pdf)
 * [Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree, USENIX Security'23](https://www.usenix.org/conference/usenixsecurity23/presentation/lu)
+* [Efficient 3PC for Binary Circuits with Application to Maliciously-Secure DNN Inference, USENIX Security'23](https://www.usenix.org/biblio-13767)
+* [Level Up: Private Non-Interactive Decision Tree Evaluation using Levelled Homomorphic Encryption, CCS'23](https://cs.paperswithcode.com/paper/level-up-private-non-interactive-decision)
 * [PUMA: Secure Inference of LLaMA-7B in Five Minutes](https://arxiv.org/abs/2307.12533)
+* [Orca: FSS-based Secure Training and Inference with GPUs, S&P'24](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE)
+* [SIGMA: Secure GPT Inference with Function Secret Sharing](https://www.microsoft.com/en-us/research/publication/sigma-secure-gpt-inference-with-function-secret-sharing/)
+* [CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)
+
 
 # MPC
 * [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
@@ -161,6 +167,9 @@ This is a current list of resources related to the research and development of p
 * [Silph: A Framework for Scalable and Accurate Generation of Hybrid MPC Protocols, S&P'23](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b796/1Js0Em52Wn6)
 * [Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection, NDSS'23](https://www.ndss-symposium.org/ndss-paper/faster-secure-comparisons-with-offline-phase-for-efficient-private-set-intersection/)
 * [FLUTE: Fast and Secure Lookup Table Evaluations, S&P'23](https://eprint.iacr.org/2023/499)
+* [Linear Communication in Malicious Majority MPC, CCS'23](https://eprint.iacr.org/2022/781)
+* [Grotto: Screaming fast (2+1)-PC or $\mathbb{Z}_{2^n}$ via (2,2)-DPFs, CCS'23](https://eprint.iacr.org/2023/108)
+
 
 # Federated Learning
 ## Secure Federated Learning

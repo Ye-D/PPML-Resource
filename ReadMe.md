@@ -110,6 +110,7 @@ This is a current list of resources related to the research and development of p
 * [Orca: FSS-based Secure Training and Inference with GPUs, S&P'24](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE)
 * [SIGMA: Secure GPT Inference with Function Secret Sharing](https://www.microsoft.com/en-us/research/publication/sigma-secure-gpt-inference-with-function-secret-sharing/)
 * [CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)
+* [HELiKs: HE Linear Algebra Kernels for Secure Inference, CCS'23](https://dl.acm.org/doi/10.1145/3576915.3623136)
 
 
 # MPC
@@ -169,6 +170,9 @@ This is a current list of resources related to the research and development of p
 * [FLUTE: Fast and Secure Lookup Table Evaluations, S&P'23](https://eprint.iacr.org/2023/499)
 * [Linear Communication in Malicious Majority MPC, CCS'23](https://eprint.iacr.org/2022/781)
 * [Grotto: Screaming fast (2+1)-PC or $\mathbb{Z}_{2^n}$ via (2,2)-DPFs, CCS'23](https://eprint.iacr.org/2023/108)
+* [COMBINE: COMpilation and Backend-INdependent vEctorization for Multi-Party Computation, CCS'23](https://dl.acm.org/doi/abs/10.1145/3576915.3623181)
+* [Don’t Eject the Impostor: Fast Three-Party Computation With a Known Cheater, IEEE S&P'24](https://eprint.iacr.org/2023/1744)
+* [Scalable Mixed-Mode MPC, IEEE S&P'24](https://eprint.iacr.org/2023/1700)
 
 
 # Federated Learning

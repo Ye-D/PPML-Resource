@@ -112,6 +112,8 @@ This is a current list of resources related to the research and development of p
 * [CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)
 * [HELiKs: HE Linear Algebra Kernels for Secure Inference, CCS'23](https://dl.acm.org/doi/10.1145/3576915.3623136)
 * [MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models, NDSS'24](https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/)
+* [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions, USENIX Security'24](https://www.usenix.org/system/files/sec24summer-prepub-373-diaa.pdf)
+* [MD-ML: Super Fast Privacy-Preserving Machine Learning for Malicious Security with a Dishonest Majority, USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/yuan)
 
 
 # MPC

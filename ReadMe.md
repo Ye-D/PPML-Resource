@@ -108,7 +108,7 @@ This is a current list of resources related to the research and development of p
 * [Level Up: Private Non-Interactive Decision Tree Evaluation using Levelled Homomorphic Encryption, CCS'23](https://cs.paperswithcode.com/paper/level-up-private-non-interactive-decision)
 * [PUMA: Secure Inference of LLaMA-7B in Five Minutes](https://arxiv.org/abs/2307.12533)
 * [Orca: FSS-based Secure Training and Inference with GPUs, S&P'24](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE)
-* [SIGMA: Secure GPT Inference with Function Secret Sharing](https://www.microsoft.com/en-us/research/publication/sigma-secure-gpt-inference-with-function-secret-sharing/)
+* [SIGMA: Secure GPT Inference with Function Secret Sharing, PoPTEs'24](https://www.microsoft.com/en-us/research/publication/sigma-secure-gpt-inference-with-function-secret-sharing/)
 * [CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)
 * [HELiKs: HE Linear Algebra Kernels for Secure Inference, CCS'23](https://dl.acm.org/doi/10.1145/3576915.3623136)
 * [MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models, NDSS'24](https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/)

@@ -6,6 +6,7 @@
 - [About](#about)
 - [Secure Machine Learning](#secure-machine-learning)
 - [MPC](#mpc)
+- [Zero Knowledge for Machine Learning](#zero-knowledge-for-machine-learning)
 - [Federated Learning](#federated-learning)
   - [Secure Federated Learning](#secure-federated-learning)
   - [Communication Optimization](#communication-optimization)
@@ -72,10 +73,7 @@ This is a current list of resources related to the research and development of p
 * [Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security, USENIX Security'21](https://www.usenix.org/system/files/sec21fall-dalskov.pdf)
 * [When homomorphic encryption marries secret sharing: secure large-scale sparse logistic regression and applications in risk control, KDD'21](https://arxiv.org/abs/2008.08753)
 * [Glyph: Fast and Accurately Training Deep Neural Networks on Encrypted Data, NeurIPS'20](https://arxiv.org/pdf/1911.07101.pdf)
-* [Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning, USENIX Security'21](https://eprint.iacr.org/2021/730)
 * [SoK: Efficient Privacy-preserving Clustering, PoPETs'21](https://eprint.iacr.org/2021/809)
-* [ZEN: Efficient Zero-Knowledge Proofs for Neural Networks](https://eprint.iacr.org/2021/087/20210127:132648)
-* [zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy, CCS'21](https://eprint.iacr.org/2021/673)
 * [Secure Quantized Training for Deep Learning, ICML](https://arxiv.org/abs/2107.00501)
 * [Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning, USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21/presentation/zheng)
 * [Tetrad: Actively Secure 4PC for Secure Training and Inference, NDSS'22](https://arxiv.org/abs/2106.02850)
@@ -108,13 +106,20 @@ This is a current list of resources related to the research and development of p
 * [Level Up: Private Non-Interactive Decision Tree Evaluation using Levelled Homomorphic Encryption, CCS'23](https://cs.paperswithcode.com/paper/level-up-private-non-interactive-decision)
 * [PUMA: Secure Inference of LLaMA-7B in Five Minutes](https://arxiv.org/abs/2307.12533)
 * [Orca: FSS-based Secure Training and Inference with GPUs, S&P'24](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a063/1RjEaAAmAAE)
-* [SIGMA: Secure GPT Inference with Function Secret Sharing, PoPTEs'24](https://www.microsoft.com/en-us/research/publication/sigma-secure-gpt-inference-with-function-secret-sharing/)
+* [SIGMA: Secure GPT Inference with Function Secret Sharing](https://www.microsoft.com/en-us/research/publication/sigma-secure-gpt-inference-with-function-secret-sharing/)
 * [CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)
 * [HELiKs: HE Linear Algebra Kernels for Secure Inference, CCS'23](https://dl.acm.org/doi/10.1145/3576915.3623136)
-* [MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models, NDSS'24](https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/)
-* [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions, USENIX Security'24](https://www.usenix.org/system/files/sec24summer-prepub-373-diaa.pdf)
+* [MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models, NDSS'24](https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/)
+* [Securely Training Decision Trees Efficiently, CCS'2024](https://eprint.iacr.org/2024/1077)
+* [Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization, CCS'24](https://arxiv.org/pdf/2406.07948)
+* [CoGNN: Towards Secure and Efficient Collaborative Graph Learning, CCS'24](https://dl.acm.org/doi/10.1145/3658644.3670300)
+* [Fast and Accurate Homomorphic Softmax Evaluation, CCS'24](https://dl.acm.org/doi/10.1145/3658644.3670369)
+* [Graphiti: Secure Graph Computation Made More Scalable, CCS'24](https://eprint.iacr.org/2024/1756)
+* [Rhombus: Fast Homomorphic Matrix-Vector Multiplication for Secure Two-Party Inference, CCS'24](https://eprint.iacr.org/2024/1611)
+* [NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping, CCS'24](https://dl.acm.org/doi/10.1145/3658644.3690375)
+* [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions, CCS'24](https://www.usenix.org/system/files/usenixsecurity24-diaa.pdf)
 * [MD-ML: Super Fast Privacy-Preserving Machine Learning for Malicious Security with a Dishonest Majority, USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/yuan)
-
+* [Accelerating Secure Collaborative Machine Learning with Protocol-Aware RDMA, USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/ren)
 
 # MPC
 * [实用安全多方计算协议关键技术研究进展, 计算机研究与发展'15](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2015.20150763)
@@ -174,8 +179,23 @@ This is a current list of resources related to the research and development of p
 * [Linear Communication in Malicious Majority MPC, CCS'23](https://eprint.iacr.org/2022/781)
 * [Grotto: Screaming fast (2+1)-PC or $\mathbb{Z}_{2^n}$ via (2,2)-DPFs, CCS'23](https://eprint.iacr.org/2023/108)
 * [COMBINE: COMpilation and Backend-INdependent vEctorization for Multi-Party Computation, CCS'23](https://dl.acm.org/doi/abs/10.1145/3576915.3623181)
-* [Don’t Eject the Impostor: Fast Three-Party Computation With a Known Cheater, IEEE S&P'24](https://eprint.iacr.org/2023/1744)
+* [Don’t Eject the Impostor: Fast Three-Party Computation With a Known Cheater, S&P'24](https://eprint.iacr.org/2023/1744)
 * [Scalable Mixed-Mode MPC, IEEE S&P'24](https://eprint.iacr.org/2023/1700)
+* [Efficient Secret Sharing for Large-Scale Applications, CCS'24](https://eprint.iacr.org/2024/1045)
+* [Secure Multiparty Computation with Lazy Sharing, CCS'24](https://eprint.iacr.org/2024/1347)
+* [Coral: Maliciously Secure Computation Framework for Packed and Mixed Circuits, CCS'24](https://dl.acm.org/doi/10.1145/3658644.3690223)
+* [Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z2𝑘 without Ring Extensions, CCS'24](https://eprint.iacr.org/2024/700.pdf)
+* [PINE: Efficient Verification of a Euclidean Norm Bound of a Secret-Shared Vector, USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/rothblum)
+
+
+# Zero Knowledge for Machine Learning
+* [Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning, USENIX Security'21](https://eprint.iacr.org/2021/730)
+* [ZEN: Efficient Zero-Knowledge Proofs for Neural Networks](https://eprint.iacr.org/2021/087/20210127:132648)
+* [zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy, CCS'21](https://eprint.iacr.org/2021/673)
+* [Zero-Knowledge Proofs of Training for Deep Neural Networks, CCS'24](https://eprint.iacr.org/2024/162)
+* [zkLLM: Zero Knowledge Proofs for Large Language Models, CCS'24](https://dl.acm.org/doi/10.1145/3658644.3670334)
+* [Sparrow : Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees, CCS'24](https://eprint.iacr.org/2024/1631)
+* [Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning, USENIX Security'24](https://www.usenix.org/conference/usenixsecurity24/presentation/hao-meng-scalable)
 
 
 # Federated Learning
@@ -205,6 +225,7 @@ This is a current list of resources related to the research and development of p
 * [ELSA: Secure Aggregation for Federated Learning with Malicious Actors, S&P'23](https://eprint.iacr.org/2022/1695)
 * [Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning, SP'23](https://eprint.iacr.org/2023/486)
 * [RoFL: Robustness of Secure Federated Learning, SP'23](https://arxiv.org/abs/2107.03311)
+* [Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning, CCS'24](https://dl.acm.org/doi/10.1145/3658644.3690191)
 
 ## Communication Optimization
 * [Terngrad: Ternary gradients to reduce communication in distributed deep learning, NIPS'17](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
@@ -223,6 +244,7 @@ This is a current list of resources related to the research and development of p
 * [Learning from History for Byzantine Robust Optimization, ICML'21](http://proceedings.mlr.press/v139/karimireddy21a/karimireddy21a.pdf)
 * [FLAME: Taming backdoors in federated learning, USENIX Security'22](https://arxiv.org/abs/2101.02281)
 * [BayBFed: Bayesian Backdoor Defense for Federated Learning, SP'23](https://arxiv.org/abs/2301.09508)
+* [Byzantine-Robust Decentralized Federated Learning, CCS'24](https://dl.acm.org/doi/10.1145/3658644.3670307)
 
 
 # Privacy Leakages of ML/FL

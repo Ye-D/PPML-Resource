@@ -177,6 +177,7 @@ This is a current list of resources related to the research and development of p
 * [Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection, NDSS'23](https://www.ndss-symposium.org/ndss-paper/faster-secure-comparisons-with-offline-phase-for-efficient-private-set-intersection/)
 * [FLUTE: Fast and Secure Lookup Table Evaluations, S&P'23](https://eprint.iacr.org/2023/499)
 * [Linear Communication in Malicious Majority MPC, CCS'23](https://eprint.iacr.org/2022/781)
+* [Ruffle: Rapid 3-party shuffle protocols, PoPETs'23](https://eprint.iacr.org/2023/431)
 * [Grotto: Screaming fast (2+1)-PC or $\mathbb{Z}_{2^n}$ via (2,2)-DPFs, CCS'23](https://eprint.iacr.org/2023/108)
 * [COMBINE: COMpilation and Backend-INdependent vEctorization for Multi-Party Computation, CCS'23](https://dl.acm.org/doi/abs/10.1145/3576915.3623181)
 * [Don’t Eject the Impostor: Fast Three-Party Computation With a Known Cheater, S&P'24](https://eprint.iacr.org/2023/1744)

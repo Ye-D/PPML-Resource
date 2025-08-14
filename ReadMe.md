@@ -21,6 +21,7 @@ This is a current list of resources related to the research and development of p
 
 
 # Secure Machine Learning
+* [Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off, ICML'25](https://arxiv.org/abs/2402.07002) [[code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)]
 * [安全多方计算及其在机器学习中的应用, 计算机研究与发展'21](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20210626)
 * [Machine Learning Classification over Encrypted Data, NDSS'14](https://eprint.iacr.org/2014/331.pdf)
 * [Oblivious Multi-Party Machine Learning on Trusted Processors, USENIX SECURITY'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/ohrimenko)
@@ -201,6 +202,7 @@ This is a current list of resources related to the research and development of p
 
 # Federated Learning
 ## Secure Federated Learning
+* [Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off, ICML'25](https://arxiv.org/abs/2402.07002) [[code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)]
 * [Privacy-Preserving Deep Learning, CCS'15](https://dl.acm.org/citation.cfm?id=2813687)
 * [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/corrigan-gibbs)
 * [Practical Secure Aggregation for Privacy Preserving Machine Learning, CCS'17](https://eprint.iacr.org/2017/281.pdf)
@@ -258,6 +260,7 @@ This is a current list of resources related to the research and development of p
 
 
 # Blogs
+* [元宇宙中的隐私问题](https://blog.csdn.net/m0_50826544/article/details/136999787?spm=1011.2415.3001.5331)
 * [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
 * [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
@@ -296,3 +299,4 @@ This is a current list of resources related to the research and development of p
 * [Primihub](https://github.com/primihub/primihub)
 * [concrete](https://github.com/zama-ai/concrete)
 * [SecretFlow](https://github.com/secretflow/secretflow)
+
